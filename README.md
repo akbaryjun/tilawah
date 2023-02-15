@@ -1,6 +1,6 @@
-# Quranible V2
+# Tilawah V1
 
-Quranible is a complete Al-Quran website with transliteration and Indonesian translation.
+Tilawah is a complete Al-Quran website with transliteration and Indonesian translation.
 
 ## Getting Started
 
