@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'LPMQ';
+    src: url('./fonts/LPMQ.ttf');
+    src: url('./fonts/LPMQ.ttf') format('ttf'),
+      url('./fonts/LPMQ.ttf') format('truetype');
+}
+
+.arab-font {
+  font-family: 'LPMQ';
+}
+
+.leading-extra {
+  line-height: 2.5;
+}
